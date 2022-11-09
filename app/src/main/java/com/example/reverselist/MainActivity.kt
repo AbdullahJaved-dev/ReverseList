@@ -167,7 +167,6 @@ class MainActivity : AppCompatActivity() {
                     speedFactor = 10f
                 )
             }
-            //smoothScrollToPosition(0)
         }
     }
 }
